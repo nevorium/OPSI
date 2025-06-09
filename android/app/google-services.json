@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "530742688804",
+    "project_id": "murojaah-hisyam",
+    "storage_bucket": "murojaah-hisyam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530742688804:android:8015377ec9929dc580acb1",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530742688804-mn0l82srh0psdu6a9ot7padif78ijmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHsmL_Tf2VJg3zemNP2BdsGai7TganKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530742688804-mn0l82srh0psdu6a9ot7padif78ijmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530742688804:android:da2e9b30a0e0996480acb1",
+        "android_client_info": {
+          "package_name": "com.hixam.mutabaah_izzam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530742688804-mn0l82srh0psdu6a9ot7padif78ijmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHsmL_Tf2VJg3zemNP2BdsGai7TganKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530742688804-mn0l82srh0psdu6a9ot7padif78ijmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
